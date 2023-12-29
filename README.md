@@ -5,24 +5,24 @@ If you would like to train by you own you could use the json file, I have used A
 The base model checkpoint is Anylora(LCM), https://civitai.com/models/23900?modelVersionId=256685, this lora perform best in this checkpoint.
 
 ## Output without other lora
-![](No other lora.png) 
+![](No_other_lora.png) 
 
 ## Output with other lora
 This model also support with other character's lora.
 Yojouhan's Akashi
-![](Other lora 5.png) 
-![](Other lora 6.png) 
-![](Other lora 7.png) 
+![](Other_lora_5.png) 
+![](Other_lora_6.png)_
+![](Other_lora_7.png) 
 Bocchi the rock's Goto Hitori
-![](Other lora 3.png) 
-![](Other lora 4.png) 
+![](Other_lora_3.png)_
+![](Other_lora_4.png) 
 Hastune Miku 
-![](Other lora 1.png) 
-![](Other lora 2.png) 
+![](Other_lora_1.png)_
+![](Other_lora_2.png) 
 
 ## Output by different checkpoint
-![](Other checkpoint 1.png)
-![](Other checkpoint 2.png)
-![](Other checkpoint 3.png)
+![](Other_checkpoint_1.png)
+![](Other_checkpoint_2.png)
+![](Other_checkpoint_3.png)
 
 If you need my showcase tagger, check out my Civitai :)
