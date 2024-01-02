@@ -4,6 +4,10 @@ This is an stable diffusion lora model, the training dataset with tag words have
 If you would like to train by you own you could use the json file, I have used Aki's toolkit to train this lora. https://github.com/Akegarasu/lora-scripts
 The base model checkpoint is Anylora(LCM), https://civitai.com/models/23900?modelVersionId=256685, this lora perform best in this checkpoint.
 
+## Training result
+![](TrainingDetails.png)
+As you could see the loss value didn't go well, it not even drop under 0.1, the curve seems also bad, to be honost there must be some way to optimize this model. But the result is good enough so maybe I wouldn't do the version 2.0.
+
 ## Output without other lora
 ![](No_other_lora.png) 
 
